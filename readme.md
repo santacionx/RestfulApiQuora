@@ -69,7 +69,7 @@ Ensure you have the following installed:
 
 ## Project Structure
 
-- `app.js`: Main application file containing routes and server setup.
+- `index.js`: Main application file containing routes and server setup.
 - `views/`: Directory containing EJS templates for rendering HTML.
 - `public/`: Directory for static files like CSS, images, etc.
 - `package.json`: Contains project dependencies and scripts.
