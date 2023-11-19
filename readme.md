@@ -17,9 +17,9 @@ Ensure you have the following installed:
 
 - **ejs**: Templating engine for rendering HTML.
 - **express**: Web framework for Node.js.
-- **method-override**: Middleware for HTTP method override.
 - **nodemon**: Utility that monitors changes in your application and restarts the server.
 - **uuid**: For generating unique identifiers.
+- **method-override** : to override the HTTP method of a request for patch and delete.
 
 # Endpoints
 
